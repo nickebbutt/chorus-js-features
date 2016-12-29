@@ -6,4 +6,3 @@ Feature: Start Chrome Browser
     Given I open Chrome
     When I navigate to http://www.bbc.co.uk
     Then the url is http://www.bbc.co.uk
-    
